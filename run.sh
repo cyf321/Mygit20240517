@@ -1,4 +1,5 @@
 #!/bin/bash
+#设置应用的名称
 APP_NAME=mblog-latest.jar
 BASE_PATH=$(cd `dirname $0`; pwd)
 
